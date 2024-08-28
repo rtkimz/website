@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Kids on Computers',
     tagline: 'Bringing technology to underprivileged kids worldwide',
-    url: 'https://kidsoncomputers.github.io/website',
+    url: 'https://kidsoncomputers.github.io/website/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
